@@ -21,4 +21,4 @@ You can use this HTML file as a template for displaying appraisal orders or simi
 
 ## Preview
 
-You can preview the table by opening the [`appraisal_orders.html`](https://iconic_appraisal_orders.netlify.app/) file in any web browser.
+You can preview the table by opening the [`Appraisal-Orders-Iconic`](https://appraisal-orders-iconic.netlify.app/) file in any web browser.
